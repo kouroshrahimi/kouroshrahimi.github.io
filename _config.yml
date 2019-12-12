@@ -85,5 +85,5 @@ exclude:
   - README.md
   - CNAME
 
-# add for test
+# To resolve conversion of scss to css by github pages
 theme: null
