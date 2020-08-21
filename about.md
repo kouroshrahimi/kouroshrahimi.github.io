@@ -4,6 +4,12 @@ title: About
 permalink: /about/
 ---
 
-I am Kourosh Rahimi, Ph.D. in Condensed Matter Physics, living in Tehran, Iran. I am currently doing computational and experimental research on two-dimensional materials and metal oxide nanostructures.
+I am Kourosh Rahimi, Ph.D. in Condensed Matter Physics, living in Tehran, Iran. I am currently doing hybrid computational and experimental research on two-dimensional materials and metal oxide nanostructures for energy storage, photocatalysis, and sensors.
 
-This will be updated soon!
+Find me at:
+* [ResearchGate](https://www.researchgate.net/profile/Kourosh_Rahimi)
+* [LinkedIn](https://www.linkedin.com/in/kourosh-rahimi)
+* [Google Scholar](https://scholar.google.com/citations?user=Z7FLTX4AAAAJ&hl=en)
+* [Medium](https://medium.com/@kourosh_rahimi)
+* [Virgool](https://virgool.io/@kourosh_rahimi)
+* [Twitter](https://www.twitter.com/rahimi_kourosh)
