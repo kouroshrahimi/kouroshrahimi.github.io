@@ -3,12 +3,11 @@ layout: default
 title: About
 ---  
 
-<div class="entry">
-  {% for post in site.posts %}
-    {% if post.number = 1 %}
+{% assign thepost = site.posts | where:"slug","about" %}
+{% for post in thepost %}
+   <div class="entry">
       <article class="post">
-        {{ content }}   
+        {{ post.content }}   
       </article>
-    {% endif %}
-  {% endfor %}
-</div>
+   </div>
+{% endfor %}
